@@ -5,4 +5,4 @@ This project has following features
   2. Feature 2
   3. Feature 3
 ---
-@sannapavithra,mthree 2024
+&copy;-sannapavithra,mthree 2024
